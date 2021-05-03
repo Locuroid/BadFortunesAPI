@@ -15,5 +15,5 @@ exports.timeframes = [
 ]
 
 exports.names = [
-  "ted, your co-worker,", "tod", "grandma", "steve bannon", "dwight"
+  "ted, your co-worker,", "tod", "grandma", "steve", "dwight"
 ]

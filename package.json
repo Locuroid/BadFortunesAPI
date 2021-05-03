@@ -1,0 +1,24 @@
+{
+  "name": "BadFortuneAPI",
+  "version": "1.0.0",
+  "description": "## This is the API for the Bad Fortune Website. ### It generates a new \"bad\" fortune everytime the API is called. You are free to use the API. It is hosted on [repl.it](https://repl.it).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Locuroid/BadFortunesAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Locuroid/BadFortunesAPI/issues"
+  },
+  "homepage": "https://github.com/Locuroid/BadFortunesAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
